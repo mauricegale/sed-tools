@@ -38,6 +38,8 @@ static const struct option longOptions[] =
     {0, 0, 0, 0}
 };
 
+// Remove this line
+
 void help(void)
 {
     printf("\n");
